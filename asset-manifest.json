@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React_wildFireTracker/static/css/main.b7154026.chunk.css",
+    "main.js": "/React_wildFireTracker/static/js/main.ca0bb86b.chunk.js",
+    "main.js.map": "/React_wildFireTracker/static/js/main.ca0bb86b.chunk.js.map",
+    "runtime-main.js": "/React_wildFireTracker/static/js/runtime-main.0e2ef579.js",
+    "runtime-main.js.map": "/React_wildFireTracker/static/js/runtime-main.0e2ef579.js.map",
+    "static/js/2.b02a83a3.chunk.js": "/React_wildFireTracker/static/js/2.b02a83a3.chunk.js",
+    "static/js/2.b02a83a3.chunk.js.map": "/React_wildFireTracker/static/js/2.b02a83a3.chunk.js.map",
+    "static/js/3.ade20fd9.chunk.js": "/React_wildFireTracker/static/js/3.ade20fd9.chunk.js",
+    "static/js/3.ade20fd9.chunk.js.map": "/React_wildFireTracker/static/js/3.ade20fd9.chunk.js.map",
+    "index.html": "/React_wildFireTracker/index.html",
+    "static/css/main.b7154026.chunk.css.map": "/React_wildFireTracker/static/css/main.b7154026.chunk.css.map",
+    "static/js/2.b02a83a3.chunk.js.LICENSE.txt": "/React_wildFireTracker/static/js/2.b02a83a3.chunk.js.LICENSE.txt",
+    "static/media/Spinner.35b42ff6.gif": "/React_wildFireTracker/static/media/Spinner.35b42ff6.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e2ef579.js",
+    "static/js/2.b02a83a3.chunk.js",
+    "static/css/main.b7154026.chunk.css",
+    "static/js/main.ca0bb86b.chunk.js"
+  ]
+}
